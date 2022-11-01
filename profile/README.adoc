@@ -3,7 +3,7 @@
 
 beyondRelations is a solutions-driven company that is founded on enhancing relationships by connecting people, data and processes in unique ways. beyondRelations understands what you do, how you do it, and the industry requirements affecting your business on a daily basis.
 
-image::https://www.getworkflo.com/wp-content/uploads/2016/02/workflo-worksmarter-1.png
+image::https://www.getworkflo.com/wp-content/uploads/2016/02/workflo-worksmarter-1.png[workflo logo]
 
 == Workflo
 
