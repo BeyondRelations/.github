@@ -3,6 +3,8 @@
 
 beyondRelations is a solutions-driven company that is founded on enhancing relationships by connecting people, data and processes in unique ways. beyondRelations understands what you do, how you do it, and the industry requirements affecting your business on a daily basis.
 
+image::https://www.getworkflo.com/wp-content/uploads/2016/02/workflo-worksmarter-1.png
+
 == Workflo
 
 Specially designed for chemical processing, Workflo controls the precise time, temperature, volts, amps, ramp rate and other variable data. It also ensures all of the operations for a routing are included and verified.
@@ -19,3 +21,7 @@ Loves Park, Illinois 61111
 1-815-986-0163
 sales@getworkflo.com
 ```
+
+////
+customized per guidance in https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile[github organization] profile
+////
